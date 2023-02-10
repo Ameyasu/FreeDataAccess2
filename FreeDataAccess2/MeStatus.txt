@@ -1,0 +1,5 @@
+$Me
+	@Abnormal Condition/bool/0/def/false
+	@HP/int32/0/def/100
+	@Item/str/‰ñ•œ–òx4, ‰ð“Å–òx1
+	@MP/double/0/def/30.2
